@@ -1,0 +1,7 @@
+﻿ID;Empresa;Estado;Dirección;Región;Comuna;Latitud;Longitud;Tipo Soporte;Altura;Tipo Documento Autorizatorio;Nro, Documento;Fecha Documento;Resolución;Fecha Resolución;x;y
+12_360;Claro;En Servicio;Avda. Bulnes N  04800;Magallanes y Antartica Chilena;Punta Arenas;"-53,126";"-70,87";Sin informacion;Sin informacion;Decreto;683;25-08-2008;"3117";12-06-2012;"-70,87";"-53,126"
+59805;Nextel;En Servicio;Av. Presidente Eduardo Frei Montalva N  0983;Magallanes y Antartica Chilena;Punta Arenas;"-53,133";"-70,909";Monoposte;29;Decreto;336;2011;"4124";14-08-2012;"-70,909";"-53,133"
+EPCS2853;Entel;En Servicio;Av. Bulnes N  04800;Magallanes y Antartica Chilena;Punta Arenas;"-53,126";"-70,869";Monoposte;36;Decreto;643;2006;"3117";12-06-2012;"-70,869";"-53,126"
+BCATF;Movistar;En Servicio;Avenida Bulnes N 04800, Sector Bahia Catalina;Magallanes y Antartica Chilena;Punta Arenas;"-53,126";"-70,869";Autosoportada;30;Decreto;266;27-03-2009;"3117";12-06-2012;"-70,869";"-53,126"
+EPCS2873;Entel;En Servicio;Presidente Eduardo Frei Montalva Nro. 0983;Magallanes y Antartica Chilena;Punta Arenas;"-53,133";"-70,909";Autosoportada;30;Decreto;879;2009;"4124";14-08-2012;"-70,909";"-53,133"
+FREIF;Movistar;En Servicio;Avda Eduardo Frei Montalva;Magallanes y Antartica Chilena;Punta Arenas;"-53,133";"-70,909";Autosoportada;30;Decreto;208;25-04-2006;"4124";14-08-2012;"-70,909";"-53,133"

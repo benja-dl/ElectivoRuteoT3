@@ -1,0 +1,12 @@
+# Archivos y carpetas generados por Docker
+db_data/
+
+# Archivos de datos descargados
+Infraestructura/region_data.osm.pbf
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/

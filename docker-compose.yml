@@ -1,0 +1,24 @@
+services:
+  db:
+    build:
+      context: .
+      dockerfile: Dockerfile.db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=tu_contraseña_segura
+      - POSTGRES_DB=tourdata_db
+    volumes:
+      - ./db_data:/var/lib/postgresql/data
+      - ./sql/create_schema.sql:/docker-entrypoint-initdb.d/create_schema.sql
+    ports:
+      - "5432:5432"
+
+  app:
+    build: .
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+    ports:
+      - "8000:8000"
+    command: python3 /app/api.py # Comando para iniciar nuestra API

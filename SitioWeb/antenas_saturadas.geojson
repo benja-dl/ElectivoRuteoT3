@@ -1,0 +1,179 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.87,
+                    -53.126
+                ]
+            },
+            "properties": {
+                "ID": "12_360",
+                "Empresa": "Claro",
+                "Estado": "En Servicio",
+                "Direcci\u00f3n": "Avda. Bulnes N  04800",
+                "Regi\u00f3n": "Magallanes y Antartica Chilena",
+                "Comuna": "Punta Arenas",
+                "Latitud": "-53,126",
+                "Longitud": "-70,87",
+                "Tipo Soporte": "Sin informacion",
+                "Altura": "Sin informacion",
+                "Tipo Documento Autorizatorio": "Decreto",
+                "Nro, Documento": "683",
+                "Fecha Documento": "25-08-2008",
+                "Resoluci\u00f3n": "3117",
+                "Fecha Resoluci\u00f3n": "12-06-2012",
+                "x": "-70,87",
+                "y": "-53,126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.909,
+                    -53.133
+                ]
+            },
+            "properties": {
+                "ID": "59805",
+                "Empresa": "Nextel",
+                "Estado": "En Servicio",
+                "Direcci\u00f3n": "Av. Presidente Eduardo Frei Montalva N  0983",
+                "Regi\u00f3n": "Magallanes y Antartica Chilena",
+                "Comuna": "Punta Arenas",
+                "Latitud": "-53,133",
+                "Longitud": "-70,909",
+                "Tipo Soporte": "Monoposte",
+                "Altura": "29",
+                "Tipo Documento Autorizatorio": "Decreto",
+                "Nro, Documento": "336",
+                "Fecha Documento": "2011",
+                "Resoluci\u00f3n": "4124",
+                "Fecha Resoluci\u00f3n": "14-08-2012",
+                "x": "-70,909",
+                "y": "-53,133"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.869,
+                    -53.126
+                ]
+            },
+            "properties": {
+                "ID": "EPCS2853",
+                "Empresa": "Entel",
+                "Estado": "En Servicio",
+                "Direcci\u00f3n": "Av. Bulnes N  04800",
+                "Regi\u00f3n": "Magallanes y Antartica Chilena",
+                "Comuna": "Punta Arenas",
+                "Latitud": "-53,126",
+                "Longitud": "-70,869",
+                "Tipo Soporte": "Monoposte",
+                "Altura": "36",
+                "Tipo Documento Autorizatorio": "Decreto",
+                "Nro, Documento": "643",
+                "Fecha Documento": "2006",
+                "Resoluci\u00f3n": "3117",
+                "Fecha Resoluci\u00f3n": "12-06-2012",
+                "x": "-70,869",
+                "y": "-53,126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.869,
+                    -53.126
+                ]
+            },
+            "properties": {
+                "ID": "BCATF",
+                "Empresa": "Movistar",
+                "Estado": "En Servicio",
+                "Direcci\u00f3n": "Avenida Bulnes N 04800, Sector Bahia Catalina",
+                "Regi\u00f3n": "Magallanes y Antartica Chilena",
+                "Comuna": "Punta Arenas",
+                "Latitud": "-53,126",
+                "Longitud": "-70,869",
+                "Tipo Soporte": "Autosoportada",
+                "Altura": "30",
+                "Tipo Documento Autorizatorio": "Decreto",
+                "Nro, Documento": "266",
+                "Fecha Documento": "27-03-2009",
+                "Resoluci\u00f3n": "3117",
+                "Fecha Resoluci\u00f3n": "12-06-2012",
+                "x": "-70,869",
+                "y": "-53,126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.909,
+                    -53.133
+                ]
+            },
+            "properties": {
+                "ID": "EPCS2873",
+                "Empresa": "Entel",
+                "Estado": "En Servicio",
+                "Direcci\u00f3n": "Presidente Eduardo Frei Montalva Nro. 0983",
+                "Regi\u00f3n": "Magallanes y Antartica Chilena",
+                "Comuna": "Punta Arenas",
+                "Latitud": "-53,133",
+                "Longitud": "-70,909",
+                "Tipo Soporte": "Autosoportada",
+                "Altura": "30",
+                "Tipo Documento Autorizatorio": "Decreto",
+                "Nro, Documento": "879",
+                "Fecha Documento": "2009",
+                "Resoluci\u00f3n": "4124",
+                "Fecha Resoluci\u00f3n": "14-08-2012",
+                "x": "-70,909",
+                "y": "-53,133"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.909,
+                    -53.133
+                ]
+            },
+            "properties": {
+                "ID": "FREIF",
+                "Empresa": "Movistar",
+                "Estado": "En Servicio",
+                "Direcci\u00f3n": "Avda Eduardo Frei Montalva",
+                "Regi\u00f3n": "Magallanes y Antartica Chilena",
+                "Comuna": "Punta Arenas",
+                "Latitud": "-53,133",
+                "Longitud": "-70,909",
+                "Tipo Soporte": "Autosoportada",
+                "Altura": "30",
+                "Tipo Documento Autorizatorio": "Decreto",
+                "Nro, Documento": "208",
+                "Fecha Documento": "25-04-2006",
+                "Resoluci\u00f3n": "4124",
+                "Fecha Resoluci\u00f3n": "14-08-2012",
+                "x": "-70,909",
+                "y": "-53,133"
+            }
+        }
+    ]
+}

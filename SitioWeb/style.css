@@ -1,0 +1,66 @@
+body { 
+    font-family: sans-serif; 
+    padding: 0;
+    margin: 0;
+}
+
+#map { 
+    height: 100vh;
+    width: 100%;
+}
+
+/* Panel de Capas (Derecha) */
+.control-panel-layers {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    background: white;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    opacity: 0.9;
+}
+.control-panel-layers h3 { margin-top: 0; }
+
+/* NUEVO: Panel de Ruteo (Izquierda) */
+.control-panel-routing {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+    background: white;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    opacity: 0.9;
+    width: 250px;
+}
+.control-panel-routing h3 { margin-top: 0; }
+.control-panel-routing .route-input {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+.control-panel-routing label {
+    width: 60px; /* Alinea las etiquetas */
+}
+.control-panel-routing input {
+    flex-grow: 1; /* El input de texto ocupa el espacio restante */
+}
+.control-panel-routing button {
+    width: 100%;
+    padding: 5px;
+}
+.control-panel-routing #geolocate-btn {
+    width: auto;
+    margin-left: 5px;
+}
+
+/* Estilo para el nuevo botón de simulación */
+.control-panel-routing #simulate-failures-btn {
+    margin-top: 5px;
+    background-color: #ffc107; /* Un color de advertencia */
+    border: none;
+    cursor: pointer;
+}

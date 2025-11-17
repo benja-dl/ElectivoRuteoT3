@@ -1,0 +1,6 @@
+# Empieza desde la imagen oficial de PostGIS que ya conocemos
+FROM postgis/postgis:16-3.4
+
+# Actualiza la lista de paquetes e instala la extensión pg_routing
+# para la versión 16 de PostgreSQL
+RUN apt-get update && apt-get install -y postgresql-16-pgrouting

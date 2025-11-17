@@ -1,0 +1,77 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.32,
+                    -18.47
+                ]
+            },
+            "properties": {
+                "region": "Arica",
+                "condicion_principal": "Clouds",
+                "descripcion": "nubes dispersas",
+                "temperatura_celsius": 18.38,
+                "viento_kmh": 7.416,
+                "icono": "03n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66,
+                    -33.45
+                ]
+            },
+            "properties": {
+                "region": "Santiago",
+                "condicion_principal": "Clear",
+                "descripcion": "cielo claro",
+                "temperatura_celsius": 24.73,
+                "viento_kmh": 22.212,
+                "icono": "01d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.61,
+                    -33.04
+                ]
+            },
+            "properties": {
+                "region": "Valparaiso",
+                "condicion_principal": "Clear",
+                "descripcion": "cielo claro",
+                "temperatura_celsius": 20.58,
+                "viento_kmh": 12.96,
+                "icono": "01d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.91,
+                    -53.16
+                ]
+            },
+            "properties": {
+                "region": "Punta Arenas",
+                "condicion_principal": "Rain",
+                "descripcion": "chubasco de ligera intensidad",
+                "temperatura_celsius": 10.14,
+                "viento_kmh": 48.168000000000006,
+                "icono": "09d"
+            }
+        }
+    ]
+}
